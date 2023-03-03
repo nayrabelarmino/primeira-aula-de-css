@@ -1,0 +1,33 @@
+.corpo {
+    margin: 0;
+    text-align: center;
+}
+span {
+    color: rgb(165, 104, 184) ! important;
+}
+
+.card {
+    width: 500px;
+    height: fit-content;
+    background-color: rgb(221, 195, 238);
+    border-radius: 25px;
+    border: 5px #022419; 
+}
+.boxImage {
+    width: 100px;
+    height: 100px;
+    background: #022419;
+    border: 1px;
+    border-radius: 50px;
+    margin: auto;
+}
+.estiloH1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.estiloRosa {
+    color: rgb(10, 52, 87);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
